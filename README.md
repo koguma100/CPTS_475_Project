@@ -8,7 +8,7 @@ Dataset:
 
 https://github.com/rokibulroni/Phishing-Email-Dataset
 
-Code source:
+Modified code source:
 
 https://www.kaggle.com/code/kirollosashraf/phishing-email-detection-using-deep-learning/notebook
 
